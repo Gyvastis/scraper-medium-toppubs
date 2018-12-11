@@ -1,0 +1,13 @@
+{
+  "name": "scraper-medium-toppubs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "scrape-it": "^5.1.1"
+  }
+}
